@@ -1,1 +1,3 @@
-- `omf install universal-updates/simple-fish-prompt`
+`omf install https://github.com/universal-updates/simple-fish-prompt`
+
+`omf theme simple-fish-prompt

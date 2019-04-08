@@ -1,3 +1,3 @@
 function fish_prompt
-  printf (pwd) '>'
+  echo -n -e (prompt_pwd) '> '
 end
