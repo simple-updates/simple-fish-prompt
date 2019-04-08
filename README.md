@@ -2,4 +2,4 @@
 
 `omf theme simple-fish-prompt`
 
-`omf update https://github.com/universal-updates/simple-fish-prompt`
+`omf remove simple-fish-prompt`
